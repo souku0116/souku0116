@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @souku0116
+
 - 👀 I’m interested in crypto development
 - 🌱 I’m currently learning the same
 - 💞️ I’m looking to collaborate on crypto development platforms
